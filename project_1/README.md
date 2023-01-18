@@ -38,6 +38,6 @@
 Работу с данными и оформление отчетов с помощью средств python
 
 ### Результаты
-[Ноутбук с выполненными заданиями и выводамиезультаты](https://github.com/ASGlazyrin/ASG_SF_Rep/blob/main/project_1/Project-1.ipynb)
+[Ноутбук с выполненными заданиями](https://github.com/ASGlazyrin/ASG_SF_Rep/blob/main/project_1/Project-1.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/ASGlazyrin/ASG_SF_Rep/tree/main/project_1/README.md#Оглавление)
