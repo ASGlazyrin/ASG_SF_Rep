@@ -4,6 +4,7 @@
 [1. Описание проекта](https://github.com/ASGlazyrin/ASG_SF_Rep/tree/main/project_1/README.md#Описание-проекта)
 [2. Какой кейс решаем](https://github.com/ASGlazyrin/ASG_SF_Rep/tree/main/project_1/README.md#Какой-кейс-решаем)
 [3. Результаты](https://github.com/ASGlazyrin/ASG_SF_Rep/tree/main/project_1/README.md#Результаты)
+[4. Исходные данные](https://github.com/ASGlazyrin/ASG_SF_Rep/tree/main/project_1/README.md#Исходные данные)
 
 ### Описание проекта
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
@@ -39,5 +40,8 @@
 
 ### Результаты
 [Ноутбук с выполненными заданиями](https://github.com/ASGlazyrin/ASG_SF_Rep/blob/main/project_1/Project-1.ipynb)
+
+### Исходные данные
+[Исходные данные](https://disk.yandex.ru/client/disk/Project_1.Figure)
 
 :arrow_up:[к оглавлению](https://github.com/ASGlazyrin/ASG_SF_Rep/tree/main/project_1/README.md#Оглавление)
