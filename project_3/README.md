@@ -29,7 +29,7 @@
 Навыки разведывательного анализа
 
 ### Результаты
-[Ноутбук с выполненными заданиями](https://github.com/ASGlazyrin/ASG_SF_Rep/blob/main/project_3/eda-project-3-asglazyrin.ipynb)
-[Ссылка на Kaggle](https://www.kaggle.com/code/alexglaz/eda-project-3-asglazyrin)
+[1. Ноутбук с выполненными заданиями](https://github.com/ASGlazyrin/ASG_SF_Rep/blob/main/project_3/eda-project-3-asglazyrin.ipynb)
+[2. Ссылка на Kaggle](https://www.kaggle.com/code/alexglaz/eda-project-3-asglazyrin)
 
 :arrow_up:[к оглавлению](https://github.com/ASGlazyrin/ASG_SF_Rep/tree/main/project_3/README.md#Оглавление)
