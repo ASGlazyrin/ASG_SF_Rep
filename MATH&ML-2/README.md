@@ -23,6 +23,6 @@
 Практикуем модели линейной регрессии и соответствующие им математический аппарат.
 
 ### Результаты
-[Ноутбук с выполненными заданиями](https://github.com/ASGlazyrin/ASG_SF_Rep/blob/main/MATH&ML-2/MATH&ML-2.ipynb)
+[Ноутбук с выполненными заданиями](https://github.com/ASGlazyrin/ASG_SF_Rep/blob/main/MATH&ML-2/MATH_ML-2.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/ASGlazyrin/ASG_SF_Rep/tree/main/MATH&ML-2/README.md#Оглавление)
